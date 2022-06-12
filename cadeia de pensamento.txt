@@ -1,0 +1,17 @@
+separar  cada item ou objeto para desgnar sua posição de forma a seguir uma linha clara e objetiva ,defindo sua importância como 
+tambem sua nescessidade.
+tornar este caminho (linha) o mais compacta e simples possivel
+ex:fazer repositorio git/github
+abrir github no navegador
+criar novo repositorio
+add titulo
+colocalo como arquivo readme
+clonar endereço http
+criar pasta no meu arquivo
+abrir gitbash 
+com comando ( git clone + colar endereço copiado dar enter)
+na pasta no meu arquivo adicionar texto imagem ou links ulteis
+para coloca lo no repositorio usar comando : git add .
+verificar o status com comando git status
+
+  
